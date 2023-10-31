@@ -4,3 +4,39 @@
     box-sizing: border-box;
 }
 
+.bg-image {
+    background-image: url("../img/jumbo.png");
+    background-size: 100%;
+    background-position: 70%;
+    height: 500px;
+}
+
+.p-row1 {
+    color: white;
+}
+
+/*PADDING VARI*/
+
+.p-header1 {
+    padding-top: 90px;
+}
+
+.padding-top80 {
+padding-top: 80px;
+}
+
+li {
+    padding-top: 10px;
+}
+
+.span-header {
+    color: white;
+    padding-right: 20px;
+}
+
+
+#italylogo {
+    height: 20px;
+    width: 40px;
+
+}
