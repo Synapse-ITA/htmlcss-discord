@@ -6,7 +6,7 @@
 
 .bg-image {
     background-image: url("../img/jumbo.png");
-    background-size: 100%;
+    background-size: cover;
     background-position: 70%;
     height: 500px;
 }
@@ -55,4 +55,8 @@ li {
 
 .text-discord {
     color: rgb(114, 137, 218);
+}
+
+body {
+    overflow-x: hidden; 
 }
