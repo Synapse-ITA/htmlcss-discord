@@ -19,7 +19,7 @@ ul {
     list-style: none;
 }
 
-/*PADDING VARI*/
+/*PADDING E COLORI VARI*/
 
 .p-header1 {
     padding-top: 90px;
@@ -51,4 +51,8 @@ li {
     height: 20px;
     width: 40px;
 
+}
+
+.text-discord {
+    color: rgb(114, 137, 218);
 }
